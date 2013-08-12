@@ -21,7 +21,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
-import android.mokee.location.PhoneLocation;
+import android.kylin.location.PhoneLocation;
 import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.text.Spannable;
